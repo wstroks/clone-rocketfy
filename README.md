@@ -4,10 +4,10 @@
 </h1>
 
 
-h2 title='#projeto'>
+<h2 title='#projeto'>
     Projeto
 </h2>
-Recriando algumas funcionalidades do Pipefy através das vídeos aulas da [ Rocketseat ](https://www.youtube.com/watch?v=awRtgpRsdTQ&t=97s).
+Recriando algumas funcionalidades do Pipefy através das vídeos aulas da Rocketseat.
 
 <h2 title='#tecnologias'>
     Tecnologias
@@ -29,6 +29,8 @@ Foram utilizadas as seguintes bibliotecas:
 - styled-components
 
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
+
+Video aula [Rocketseat](https://www.youtube.com/watch?v=awRtgpRsdTQ&t=97s).
 
 ## Script de execução do projeto
 
